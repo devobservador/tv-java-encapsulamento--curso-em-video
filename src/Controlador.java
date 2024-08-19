@@ -1,4 +1,5 @@
 public interface Controlador {
+   // criando nosso métodos abstratos
 
    public abstract void ligar();
    public abstract  void Desligar();
